@@ -4,6 +4,7 @@ body {
 
 .lines1 {
   border: solid;
+  border-radius: 20px;
   color: chocolate;
   padding-left: 10%;
   padding-right: 10%;
@@ -13,19 +14,21 @@ body {
   background-position: center;
   margin-top: 50px;
   margin-bottom: 50px;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 .header1 {
   background-color: bisque;
   color: darkgreen;
   text-align: center;
-  font-size: 330%;
+  font-size: 300%;
+  text-shadow: 5px 5px 12px black;
 }
 
 .line1 {
   display: inline-block;
+  text-align: center;
 }
 .space1 {
   width: 30%;
@@ -50,6 +53,7 @@ body {
 
 .line2 {
   display: inline-block;
+  text-align: center;
 }
 
 .seaside1 {
@@ -75,6 +79,7 @@ body {
 
 .line3 {
   display: inline-block;
+  text-align: center;
 }
 
 .earth1 {
