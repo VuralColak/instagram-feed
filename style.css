@@ -1,3 +1,12 @@
+.lines1 {
+  border: solid;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 70px;
+}
+
 .header1 {
   background-color: bisque;
   color: darkgreen;
@@ -9,16 +18,54 @@
   display: inline-block;
 }
 .space1 {
-  width: 32.5vw;
-  height: 32.5vw;
+  width: 30vw;
+  height: 30vw;
 }
 
 .car1 {
-  width: 32.5vw;
-  height: 32.5vw;
+  width: 30vw;
+  height: 30vw;
 }
 
 .ship1 {
-  width: 32.5vw;
-  height: 32.5vw;
+  width: 30vw;
+  height: 30vw;
+}
+
+.line2 {
+  display: inline-block;
+}
+
+.seaside1 {
+  width: 30vw;
+  height: 30vw;
+}
+
+.mountain1 {
+  width: 30vw;
+  height: 30vw;
+}
+
+.sun1 {
+  width: 30vw;
+  height: 30vw;
+}
+
+.line3 {
+  display: inline-block;
+}
+
+.earth1 {
+  width: 30vw;
+  height: 30vw;
+}
+
+.astronaut1 {
+  width: 30vw;
+  height: 30vw;
+}
+
+.kapadokya1 {
+  width: 30vw;
+  height: 30vw;
 }
