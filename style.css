@@ -1,0 +1,24 @@
+.header1 {
+  background-color: bisque;
+  color: darkgreen;
+  text-align: center;
+  font-size: 3vw;
+}
+
+.line1 {
+  display: inline-block;
+}
+.space1 {
+  width: 32.5vw;
+  height: 32.5vw;
+}
+
+.car1 {
+  width: 32.5vw;
+  height: 32.5vw;
+}
+
+.ship1 {
+  width: 32.5vw;
+  height: 32.5vw;
+}
