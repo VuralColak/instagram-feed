@@ -5,47 +5,47 @@ body {
 .lines1 {
   border: solid;
   color: chocolate;
-  padding-left: 60px;
-  padding-right: 60px;
+  padding-left: 10%;
+  padding-right: 10%;
   padding-top: 20px;
   padding-bottom: 20px;
-  font-size: 90px;
+  font-size: 33px;
   background-position: center;
   margin-top: 50px;
   margin-bottom: 50px;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .header1 {
   background-color: bisque;
   color: darkgreen;
   text-align: center;
-  font-size: 3vw;
+  font-size: 330%;
 }
 
 .line1 {
   display: inline-block;
 }
 .space1 {
-  width: 26vw;
-  height: 26vw;
+  width: 30%;
+  height: 30%;
   background-position: center;
-  object-position: center;
+  aspect-ratio: 1;
 }
 
 .car1 {
-  width: 26vw;
-  height: 26vw;
+  width: 30%;
+  height: 30%;
   background-position: center;
-  object-position: center;
+  aspect-ratio: 1;
 }
 
 .ship1 {
-  width: 26vw;
-  height: 26vw;
+  width: 30%;
+  height: 30%;
   background-position: center;
-  object-position: center;
+  aspect-ratio: 1;
 }
 
 .line2 {
@@ -53,21 +53,24 @@ body {
 }
 
 .seaside1 {
-  width: 26vw;
-  height: 26vw;
+  width: 30%;
+  height: 30%;
   background-position: center;
+  aspect-ratio: 1;
 }
 
 .mountain1 {
-  width: 26vw;
-  height: 26vw;
+  width: 30%;
+  height: 30%;
   background-position: center;
+  aspect-ratio: 1;
 }
 
 .sun1 {
-  width: 26vw;
-  height: 26vw;
+  width: 30%;
+  height: 30%;
   background-position: center;
+  aspect-ratio: 1;
 }
 
 .line3 {
@@ -75,19 +78,22 @@ body {
 }
 
 .earth1 {
-  width: 26vw;
-  height: 26vw;
+  width: 30%;
+  height: 30%;
   background-position: center;
+  aspect-ratio: 1;
 }
 
 .astronaut1 {
-  width: 26vw;
-  height: 26vw;
+  width: 30%;
+  height: 30%;
   background-position: center;
+  aspect-ratio: 1;
 }
 
 .kapadokya1 {
-  width: 26vw;
-  height: 26vw;
+  width: 30%;
+  height: 30%;
   background-position: center;
+  aspect-ratio: 1;
 }
